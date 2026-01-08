@@ -1,0 +1,37 @@
+{
+  "name": "Alex Miller",
+  "email": "alexmiller2398@outlook.com",
+  "phone": "512 861 1477",
+  "location": "Boston Massachusetts, United States",
+  "experience": [
+    {
+      "company": "Etsy",
+      "location": "Massachusetts, United States",
+      "start_date": "December 2022",
+      "end_date": "Present",
+      "title": "SDET"
+    },
+    {
+      "company": "Medtronic",
+      "location": "Massachusetts, United States",
+      "start_date": "February 2020",
+      "end_date": "November 2022",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "Brookline Bank",
+      "location": "Massachusetts, United States",
+      "start_date": "July 2017",
+      "end_date": "January 2020",
+      "title": "Manual/Automation Tester"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology - BTech",
+      "school": "Argosy University",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ]
+}

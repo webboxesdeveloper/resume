@@ -1,0 +1,44 @@
+{
+  "name": "Jagan Joe",
+  "email": "jaganjoe12@outlook.com",
+  "phone": "681 254 7451",
+  "location": "Dallas, TX, United States",
+  "experience": [
+    {
+      "company": "Delta Air Lines",
+      "location": "Atlanta, Georgia, United States",
+      "start_date": "September 2023",
+      "end_date": "Present",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "GreenSky®",
+      "location": "Atlanta, Georgia, United States",
+      "start_date": "November 2021",
+      "end_date": "August 2023",
+      "title": "Selenium QA Automation Tester"
+    },
+    {
+      "company": "State Street",
+      "location": "Hyderabad, Telangana, India",
+      "start_date": "January 2020",
+      "end_date": "July 2021",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "Macsof Technologies",
+      "location": "Visakhapatnam, Andhra Pradesh, India",
+      "start_date": "April 2018",
+      "end_date": "December 2019",
+      "title": "Junior QA Tester"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's degree",
+      "school": "Georgia State University",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}

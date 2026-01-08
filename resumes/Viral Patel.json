@@ -1,0 +1,58 @@
+{
+  "name": "Viral Patel",
+  "email": "viralpatel004@outlook.com",
+  "phone": "832 924 0191",
+  "location": "Austin, Texas, United States",
+  "experience": [
+    {
+      "company": "American Fidelity Insurance",
+      "location": "Oklahoma City, Oklahoma, United States",
+      "start_date": "June 2023",
+      "end_date": "Present",
+      "title": "QA Engineer"
+    },
+    {
+      "company": "IBC Bank",
+      "location": "Remote",
+      "start_date": "September 2021",
+      "end_date": "May 2023",
+      "title": "QA Engineer"
+    },
+    {
+      "company": "Jasco Products",
+      "location": "Remote",
+      "start_date": "February 2020",
+      "end_date": "August 2021",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "Sun & Ski Sports",
+      "location": "Houston, Texas, United States",
+      "start_date": "October 2018",
+      "end_date": "January 2020",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "The LDS Group",
+      "location": "Remote",
+      "start_date": "January 2017",
+      "end_date": "September 2018",
+      "title": "QA Automation Engineer"
+    },
+    {
+      "company": "Southside Bank",
+      "location": "Tyler, Texas, United States",
+      "start_date": "May 2015",
+      "end_date": "December 2016",
+      "title": "QA Manual Tester"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology - BTech",
+      "school": "Arizona State University",
+      "start_year": "2011",
+      "end_year": "2015"
+    }
+  ]
+}
